@@ -24,7 +24,11 @@
 
 ![image](https://user-images.githubusercontent.com/35645329/193962270-9058a005-bdea-45fe-b21b-998bdd140792.png) [陨铁重剑](陨铁重剑.md)    
 
-![image](https://user-images.githubusercontent.com/35645329/193962396-d0351d78-1fda-49cc-93cb-d746695ab6c4.png) [饮血魔剑/长枪](饮血魔剑.md)    
+![image](https://user-images.githubusercontent.com/35645329/193962396-d0351d78-1fda-49cc-93cb-d746695ab6c4.png) [饮血魔剑/长枪](饮血魔剑.md)   
+
+![image](https://user-images.githubusercontent.com/35645329/224535595-cfe0f279-5fb8-466e-9269-25e1b6ef41ea.png) [彩金长剑](彩金长剑.md)   
+
+![image](https://user-images.githubusercontent.com/26247398/264512174-84b66a25-963a-4309-872c-b1acb3b96452.gif) [清澄长杖](清澄长杖.md) 
 
 ## 手部
 
@@ -37,6 +41,8 @@
 ![image](https://user-images.githubusercontent.com/35645329/193947361-1c9e4475-7eee-4efe-ac5f-9d999a3e2008.png) [海星戒指](海星戒指.md)    
 
 ![image](https://user-images.githubusercontent.com/35645329/193947407-cdc6cb47-564a-43a7-9676-dd866820aa66.png) [噬魔戒指](噬魔戒指.md)   
+
+![image](https://user-images.githubusercontent.com/26247398/271805958-6bf6f589-b90c-4805-9d48-5485e79f8166.gif) [折光戒指](折光戒指.md)  
 
 ## 身体
 
@@ -60,7 +66,11 @@
  
 ![image](https://user-images.githubusercontent.com/35645329/193962562-baada598-5a16-49e8-84ef-6e0950874a58.png) [占星师的耳饰/发饰](占星师的耳饰.md)    
 
-![image](https://user-images.githubusercontent.com/35645329/193962529-ddeb0ffc-4f88-47c3-b021-2b0167beb1cf.png) [萌爪耳钉/天使缎带](萌爪耳钉.md)     
+![image](https://user-images.githubusercontent.com/35645329/193962529-ddeb0ffc-4f88-47c3-b021-2b0167beb1cf.png) [萌爪耳钉/天使缎带](萌爪耳钉.md)   
+
+![image](https://user-images.githubusercontent.com/26247398/244909341-2d73acdd-3373-4704-b161-c439e21767d4.gif) [猎魔耳环](猎魔耳环.md)
+
+![image](https://user-images.githubusercontent.com/26247398/271863192-efeeff5f-1477-40ab-95d3-84d8e29430b8.gif) [凶神耳环](凶神耳环.md)
 
 ![image](https://user-images.githubusercontent.com/35645329/193962583-2f338af2-eab7-463a-8e0d-fd31866c88a6.png) [樱桃头饰](樱桃头饰.md)    
 
